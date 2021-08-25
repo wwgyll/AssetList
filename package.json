@@ -1,0 +1,16 @@
+{
+    "name": "com.tawy.assetlist",
+    "version": "0.0.1",
+    "displayName": "资源列表",
+    "description": "用来统计项目中的资源",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+   "keywords": [
+      "asset",
+      "list"
+    ],
+    "author": {
+      "name": "Tawy",
+      "email": "1149365152@qq.com"
+    }
+  }
