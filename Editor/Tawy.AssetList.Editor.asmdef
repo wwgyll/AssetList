@@ -1,11 +1,11 @@
 {
-    "name": "Tawy.AssetList.Editor",
+    "name": "tawy.assetlist.Editor",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [
         "Editor"
     ],
-    "allowUnsafeCode": false,
+    "allowUnsafeCode": true,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
